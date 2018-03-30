@@ -8,3 +8,12 @@ In your `README.md` document, provide some information about a terminal command 
 - A _list_ of information about the command (i.e., things that it does, or how it can be used).
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
+
+# Changing Directories (cd)
+The ``` cd ``` command can be used to change folder
+
+``` cd folder_name ```
+
+* It should follow a folder name when changing directories
+* You can refer to any file or folder by specifying the path, like ``` cd /Users/Desktop/ ```
+* To refer to the **parent** folder, use ``` cd .. ```
